@@ -8,7 +8,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/advithialva/Milestone1.git
+   git clone https://github.com/ryshel-jasmi/Milestone1.git
    ```
 3. Install dependencies:
    ```
